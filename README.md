@@ -15,7 +15,6 @@ Olá, meu nome é Henrique Campos Jonck e eu tenho 17 anos, estudo programação
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-jonck&count_private=true&show_icons=true&&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-jonck&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
----
 <div>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -24,3 +23,6 @@ Olá, meu nome é Henrique Campos Jonck e eu tenho 17 anos, estudo programação
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
+
+## Principais projetos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=henrique-jonck&repo=manuais&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
