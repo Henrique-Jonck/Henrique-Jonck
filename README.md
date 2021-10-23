@@ -1,5 +1,5 @@
 # Olá a todos! 🖐️
-Olá, meu nome é Henrique Campos Jonck e eu tenho 17 anos, estudo programação a 1 ano e adoro este novo mundo desde que entrei nele.
+Olá, meu nome é Henrique Campos Jonck e eu tenho 17 anos, estudo programação a 1 ano e adoro este novo mundo desde que entrei.
 
 <div>
   <a href="mailto:jonckhenrique484@gmail.com" target="_blank"><img alt="Icone Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
