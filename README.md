@@ -8,7 +8,7 @@ Olá, meu nome é Henrique Campos Jonck, tenho 17 anos e estudo programação a 
 </div>
 
 ## Sobre mim :triangular_flag_on_post:
-- 🎓 Cursando o 2° semestre em Analise e Desenvolvimento de Sistemas na Unip
+- 🎓 Cursando o 3° semestre em Analise e Desenvolvimento de Sistemas na Unip
 - 📖 Estudando front-end
 - 💼 Em busca de uma oportunidade de emprego
 - 🪐 Entusiasta por astronomia
